@@ -1,0 +1,25 @@
+Value Counts
+platform
+PC                  4660
+PlayStation 4       1950
+Xbox 360            1547
+PlayStation 2       1311
+Switch              1216
+PlayStation 3       1208
+Xbox One            1089
+Xbox                 686
+DS                   599
+Wii                  597
+PSP                  464
+GameCube             413
+3DS                  378
+Game Boy Advance     349
+PlayStation Vita     251
+Wii U                181
+PlayStation          166
+Dreamcast            119
+PlayStation 5        110
+Nintendo 64           71
+Xbox Series X         65
+Stadia                 5
+Name: count, dtype: int64
